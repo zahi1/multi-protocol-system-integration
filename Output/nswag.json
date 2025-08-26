@@ -1,0 +1,17 @@
+﻿{
+  "runtime": "Net80",
+  "documentGenerator": {
+    "fromDocument": {
+      "url": "http://localhost:5001/swagger/v1/swagger.json",
+      "output": null
+    }
+  },
+  "codeGenerators": {
+    "openApiToCSharpClient": {
+      "classname": "OutputClient",
+      "namespace": "OutputNamespace",
+      "output": "OutputClient.cs",
+      "generateSyncMethods": true
+    }
+  }
+}

@@ -1,0 +1,88 @@
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\NLog.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.csproj.AssemblyReference.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.AssemblyInfoInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.AssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.csproj.CoreCompileInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPress.4FE35C3D.Up2Date
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\refint\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.genruntimeconfig.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\obj\Debug\net8.0\ref\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Ceras.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\SimpleRpc.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\SimpleRpc.Serialization.Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\InteroperabilityGasPressure\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressure.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\Ceras.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\NLog.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\SimpleRpc.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\SimpleRpc.Serialization.Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\bin\Debug\net8.0\GasPressureContract.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.csproj.AssemblyReference.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.AssemblyInfoInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.AssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.csproj.CoreCompileInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPress.4FE35C3D.Up2Date
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\refint\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.genruntimeconfig.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\ref\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\GasPressure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets\msbuild.GasPressure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets\msbuild.build.GasPressure.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GasPressure.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GasPressure.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\InteroperabilityGasPressure\obj\Debug\net8.0\scopedcss\bundle\GasPressure.styles.css

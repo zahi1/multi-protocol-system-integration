@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/GasContainerProtocol.cs \
+obj\Debug\net8.0\Protos/GasContainerProtocolGrpc.cs: C:/Users/helou/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/empty.proto\
+ Protos/GasContainerProtocol.proto

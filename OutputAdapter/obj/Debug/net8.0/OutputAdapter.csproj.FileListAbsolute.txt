@@ -1,0 +1,96 @@
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressureContract.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressureContract.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressureContract.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressure.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressure.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressure.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\OutputAdapter.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\OutputAdapter.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\OutputAdapter.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\OutputAdapter.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Ceras.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\NLog.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\SimpleRpc.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\SimpleRpc.Serialization.Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressure.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressureContract.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressureContract.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\GasPressure.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.csproj.AssemblyReference.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.AssemblyInfoInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.AssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.csproj.CoreCompileInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAd.46CEDFF9.Up2Date
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\refint\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.genruntimeconfig.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\ref\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\OutputAdapter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.OutputAdapter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.build.OutputAdapter.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OutputAdapter.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OutputAdapter.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure\OutputAdapter\obj\Debug\net8.0\scopedcss\bundle\OutputAdapter.styles.css
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\GasPressureContract.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\GasPressureContract.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\GasPressureContract.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\OutputAdapter.exe
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\OutputAdapter.deps.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\OutputAdapter.runtimeconfig.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\OutputAdapter.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Ceras.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\NLog.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\SimpleRpc.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\SimpleRpc.Serialization.Hyperion.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\GasPressureContract.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\GasPressureContract.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.csproj.AssemblyReference.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.AssemblyInfoInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.AssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.csproj.CoreCompileInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.OutputAdapter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.build.OutputAdapter.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OutputAdapter.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OutputAdapter.props
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\scopedcss\bundle\OutputAdapter.styles.css
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAd.46CEDFF9.Up2Date
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\refint\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.pdb
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.genruntimeconfig.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\ref\OutputAdapter.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\appsettings.json
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\bin\Debug\net8.0\OutputAdapter.xml
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\OutputAdapter\obj\Debug\net8.0\OutputAdapter.xml

@@ -1,0 +1,33 @@
+﻿syntax = "proto3";
+
+// This will translate into C# namespace
+package Services;
+
+// Define the service for GasContainer management
+service GasContainerService {
+    // Increase the gas mass in the container
+    rpc IncreaseMass(DoubleMsg) returns (Empty);
+
+    // Decrease the gas mass in the container
+    rpc DecreaseMass(DoubleMsg) returns (Empty);
+
+    // Get the current pressure of the gas in the container
+    rpc GetPressure(Empty) returns (DoubleMsg);
+
+    // Check if the gas container is destroyed
+    rpc IsDestroyed(Empty) returns (BoolMsg);
+}
+
+// Empty message for requests or responses without data
+message Empty {
+}
+
+// Single value structure for double data
+message DoubleMsg {
+    double value = 1; // Double value to represent mass or pressure
+}
+
+// Single value structure for boolean data
+message BoolMsg {
+    bool value = 1; // Boolean value to indicate true/false status
+}

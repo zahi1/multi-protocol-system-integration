@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\interoperabilitygaspressure\\gascontainerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|solutionrelative:interoperabilitygaspressure\\gascontainerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\interoperabilitygaspressure\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|solutionrelative:interoperabilitygaspressure\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\interoperabilitygaspressure\\gascontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|solutionrelative:interoperabilitygaspressure\\gascontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25984CE6-1987-4BA9-927B-28CD3ED0B139}|GasPressureContract\\GasPressureContract.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\gaspressurecontract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25984CE6-1987-4BA9-927B-28CD3ED0B139}|GasPressureContract\\GasPressureContract.csproj|solutionrelative:gaspressurecontract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25984CE6-1987-4BA9-927B-28CD3ED0B139}|GasPressureContract\\GasPressureContract.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\gaspressurecontract\\igascontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25984CE6-1987-4BA9-927B-28CD3ED0B139}|GasPressureContract\\GasPressureContract.csproj|solutionrelative:gaspressurecontract\\igascontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C9C624-97C2-4757-96E5-E37751831D7E}|Input\\Input.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\input\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C9C624-97C2-4757-96E5-E37751831D7E}|Input\\Input.csproj|solutionrelative:input\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C9C624-97C2-4757-96E5-E37751831D7E}|Input\\Input.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\input\\protos\\service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C3C9C624-97C2-4757-96E5-E37751831D7E}|Input\\Input.csproj|solutionrelative:input\\protos\\service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\adapters\\protos\\service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|solutionrelative:adapters\\protos\\service.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\adapters\\gascontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|solutionrelative:adapters\\gascontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\outputadapter\\controllers\\gaspressurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|solutionrelative:outputadapter\\controllers\\gaspressurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\outputadapter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|solutionrelative:outputadapter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\output\\outputclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|solutionrelative:output\\outputclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\output\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|solutionrelative:output\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C9C624-97C2-4757-96E5-E37751831D7E}|Input\\Input.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\input\\input.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3C9C624-97C2-4757-96E5-E37751831D7E}|Input\\Input.csproj|solutionrelative:input\\input.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\output\\nswag.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|solutionrelative:output\\nswag.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\outputadapter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|solutionrelative:outputadapter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\output\\output.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{009F73DE-ACCC-454B-BAF9-9F57AEF759E3}|Output\\Output.csproj|solutionrelative:output\\output.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\adapters\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|solutionrelative:adapters\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\interoperabilitygaspressure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|solutionrelative:interoperabilitygaspressure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\adapters\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|solutionrelative:adapters\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\adapters\\inputadapter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8548FE1A-1DFA-4FB8-8186-D96AD00F335E}|Adapters\\InputAdapter.csproj|solutionrelative:adapters\\inputadapter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25984CE6-1987-4BA9-927B-28CD3ED0B139}|GasPressureContract\\GasPressureContract.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\gaspressurecontract\\gaspressurecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25984CE6-1987-4BA9-927B-28CD3ED0B139}|GasPressureContract\\GasPressureContract.csproj|solutionrelative:gaspressurecontract\\gaspressurecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\interoperabilitygaspressure\\gaspressure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A7038C7-B36A-489B-8C84-F6F7DF90658F}|InteroperabilityGasPressure\\GasPressure.csproj|solutionrelative:interoperabilitygaspressure\\gaspressure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|c:\\users\\helou\\source\\repos\\interoperabilitygaspressure - copy\\outputadapter\\outputadapter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3682BDA-4D74-499A-B2F0-FB23FB3F4B6C}|OutputAdapter\\OutputAdapter.csproj|solutionrelative:outputadapter\\outputadapter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OutputClient.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\OutputClient.cs",
+              "RelativeDocumentMoniker": "Output\\OutputClient.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\OutputClient.cs",
+              "RelativeToolTip": "Output\\OutputClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:16:24.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\appsettings.json",
+              "RelativeDocumentMoniker": "OutputAdapter\\appsettings.json",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\appsettings.json",
+              "RelativeToolTip": "OutputAdapter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T11:16:39.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\appsettings.json",
+              "RelativeDocumentMoniker": "Adapters\\appsettings.json",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\appsettings.json",
+              "RelativeToolTip": "Adapters\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T11:14:48.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\appsettings.json",
+              "RelativeDocumentMoniker": "InteroperabilityGasPressure\\appsettings.json",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\appsettings.json",
+              "RelativeToolTip": "InteroperabilityGasPressure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T11:13:50.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "service.proto",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\Protos\\service.proto",
+              "RelativeDocumentMoniker": "Adapters\\Protos\\service.proto",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\Protos\\service.proto",
+              "RelativeToolTip": "Adapters\\Protos\\service.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-08T11:03:59.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GasPressure.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\GasPressure.csproj",
+              "RelativeDocumentMoniker": "InteroperabilityGasPressure\\GasPressure.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\GasPressure.csproj",
+              "RelativeToolTip": "InteroperabilityGasPressure\\GasPressure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T10:41:39.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "service.proto",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Input\\Protos\\service.proto",
+              "RelativeDocumentMoniker": "Input\\Protos\\service.proto",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Input\\Protos\\service.proto",
+              "RelativeToolTip": "Input\\Protos\\service.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-12-08T10:40:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GasPressureController.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\Controllers\\GasPressureController.cs",
+              "RelativeDocumentMoniker": "OutputAdapter\\Controllers\\GasPressureController.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\Controllers\\GasPressureController.cs",
+              "RelativeToolTip": "OutputAdapter\\Controllers\\GasPressureController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:26:35.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nswag.json",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\nswag.json",
+              "RelativeDocumentMoniker": "Output\\nswag.json",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\nswag.json",
+              "RelativeToolTip": "Output\\nswag.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T23:21:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\Client.cs",
+              "RelativeDocumentMoniker": "Output\\Client.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\Client.cs",
+              "RelativeToolTip": "Output\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:51:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Input\\Client.cs",
+              "RelativeDocumentMoniker": "Input\\Client.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Input\\Client.cs",
+              "RelativeToolTip": "Input\\Client.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:57:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\GasPressureContract\\Program.cs",
+              "RelativeDocumentMoniker": "GasPressureContract\\Program.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\GasPressureContract\\Program.cs",
+              "RelativeToolTip": "GasPressureContract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:55:21.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGasContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\GasPressureContract\\IGasContainerService.cs",
+              "RelativeDocumentMoniker": "GasPressureContract\\IGasContainerService.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\GasPressureContract\\IGasContainerService.cs",
+              "RelativeToolTip": "GasPressureContract\\IGasContainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:55:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\Server.cs",
+              "RelativeDocumentMoniker": "InteroperabilityGasPressure\\Server.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\Server.cs",
+              "RelativeToolTip": "InteroperabilityGasPressure\\Server.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:54:07.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GasContainerLogic.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\GasContainerLogic.cs",
+              "RelativeDocumentMoniker": "InteroperabilityGasPressure\\GasContainerLogic.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\GasContainerLogic.cs",
+              "RelativeToolTip": "InteroperabilityGasPressure\\GasContainerLogic.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:53:43.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GasContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\GasContainerService.cs",
+              "RelativeDocumentMoniker": "InteroperabilityGasPressure\\GasContainerService.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\InteroperabilityGasPressure\\GasContainerService.cs",
+              "RelativeToolTip": "InteroperabilityGasPressure\\GasContainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:53:31.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GasPressureContract.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\GasPressureContract\\GasPressureContract.csproj",
+              "RelativeDocumentMoniker": "GasPressureContract\\GasPressureContract.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\GasPressureContract\\GasPressureContract.csproj",
+              "RelativeToolTip": "GasPressureContract\\GasPressureContract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T23:53:08.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Input.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Input\\Input.csproj",
+              "RelativeDocumentMoniker": "Input\\Input.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Input\\Input.csproj",
+              "RelativeToolTip": "Input\\Input.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T23:23:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OutputAdapter.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\OutputAdapter.csproj",
+              "RelativeDocumentMoniker": "OutputAdapter\\OutputAdapter.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\OutputAdapter.csproj",
+              "RelativeToolTip": "OutputAdapter\\OutputAdapter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T22:37:25.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Output.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\Output.csproj",
+              "RelativeDocumentMoniker": "Output\\Output.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Output\\Output.csproj",
+              "RelativeToolTip": "Output\\Output.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T22:36:57.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InputAdapter.csproj",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\InputAdapter.csproj",
+              "RelativeDocumentMoniker": "Adapters\\InputAdapter.csproj",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\InputAdapter.csproj",
+              "RelativeToolTip": "Adapters\\InputAdapter.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T22:29:43.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\Server.cs",
+              "RelativeDocumentMoniker": "Adapters\\Server.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\Server.cs",
+              "RelativeToolTip": "Adapters\\Server.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:24:35.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GasContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\GasContainerService.cs",
+              "RelativeDocumentMoniker": "Adapters\\GasContainerService.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\Adapters\\GasContainerService.cs",
+              "RelativeToolTip": "Adapters\\GasContainerService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:19:14.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\Server.cs",
+              "RelativeDocumentMoniker": "OutputAdapter\\Server.cs",
+              "ToolTip": "C:\\Users\\helou\\source\\repos\\InteroperabilityGasPressure - Copy\\OutputAdapter\\Server.cs",
+              "RelativeToolTip": "OutputAdapter\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:36:25.458Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

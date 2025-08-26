@@ -1,0 +1,5 @@
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\Output\obj\Debug\net7.0\Output.csproj.AssemblyReference.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\Output\obj\Debug\net7.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\Output\obj\Debug\net7.0\Output.AssemblyInfoInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\Output\obj\Debug\net7.0\Output.AssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure - Copy\Output\obj\Debug\net7.0\Output.csproj.CoreCompileInputs.cache

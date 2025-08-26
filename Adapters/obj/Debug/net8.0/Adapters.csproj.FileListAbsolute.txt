@@ -1,0 +1,5 @@
+C:\Users\helou\source\repos\InteroperabilityGasPressure\Adapters\obj\Debug\net8.0\Adapters.csproj.AssemblyReference.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\Adapters\obj\Debug\net8.0\Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helou\source\repos\InteroperabilityGasPressure\Adapters\obj\Debug\net8.0\Adapters.AssemblyInfoInputs.cache
+C:\Users\helou\source\repos\InteroperabilityGasPressure\Adapters\obj\Debug\net8.0\Adapters.AssemblyInfo.cs
+C:\Users\helou\source\repos\InteroperabilityGasPressure\Adapters\obj\Debug\net8.0\Adapters.csproj.CoreCompileInputs.cache

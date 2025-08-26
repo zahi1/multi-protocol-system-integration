@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutputAdapter</name>
+    </assembly>
+    <members>
+        <member name="T:Servers.GasPressureController">
+            <summary>
+            Controller for managing gas pressure operations via REST, backed by RPC communication.
+            </summary>
+        </member>
+        <member name="M:Servers.GasPressureController.IncreaseMass(System.Double)">
+            <summary>
+            Adds mass to the gas container.
+            </summary>
+            <param name="mass">The amount of mass to add.</param>
+            <returns>True if successful, otherwise false.</returns>
+        </member>
+        <member name="M:Servers.GasPressureController.DecreaseMass(System.Double)">
+            <summary>
+            Removes mass from the gas container.
+            </summary>
+            <param name="mass">The amount of mass to remove.</param>
+            <returns>True if successful, otherwise false.</returns>
+        </member>
+        <member name="M:Servers.GasPressureController.GetPressure">
+            <summary>
+            Retrieves the current pressure of the gas container.
+            </summary>
+            <returns>The current pressure as a double value.</returns>
+        </member>
+        <member name="M:Servers.GasPressureController.IsContainerDestroyed">
+            <summary>
+            Checks if the gas container is destroyed.
+            </summary>
+            <returns>True if the container is destroyed; otherwise, false.</returns>
+        </member>
+        <member name="F:Servers.GasPressureServer.log">
+            <summary>
+            Logger for this class.
+            </summary>
+        </member>
+        <member name="M:Servers.GasPressureServer.ConfigureLogging">
+            <summary>
+            Configure logging subsystem using NLog.
+            </summary>
+        </member>
+        <member name="M:Servers.GasPressureServer.Main(System.String[])">
+            <summary>
+            Program entry point.
+            </summary>
+            <param name="args">Command line arguments.</param>
+        </member>
+        <member name="M:Servers.GasPressureServer.Run(System.String[])">
+            <summary>
+            Program body.
+            </summary>
+            <param name="args">Command line arguments.</param>
+        </member>
+        <member name="M:Servers.GasPressureServer.StartServer(System.String[])">
+            <summary>
+            Starts the integrated server.
+            </summary>
+            <param name="args">Command line arguments.</param>
+        </member>
+    </members>
+</doc>
